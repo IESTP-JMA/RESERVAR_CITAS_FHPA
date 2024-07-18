@@ -8,7 +8,7 @@ Los usuario del Hospital "Felipe Huaman Poma de Ayala" Puquio tienen problemas p
 
 SOLUCION
 
-La solucion es la creacion de una aplicacion mobil que permita a los usuarios reservar una cita con un medico especifico en un dia especifico.
+La solucion es la creación de una aplicación mobil "reservar citas", que permita a los usuarios reservar una cita con un medico especifico en un dia especifico.
 
 
 INTEGRANTES
@@ -17,5 +17,5 @@ INTEGRANTES
 - CCACCACHAHUA ASTOYAURI FELICIANA
 - CANTORAL HUAMAN MARITZA JHOSELIN
 - ASTO HUMANI DAVID
-- MEDINA AZURZA  YADIRA DE VOLEY
+- MEDINA AZURZA  YADIRA
   
