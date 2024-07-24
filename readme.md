@@ -32,5 +32,5 @@ Continuar desarrrollando y mejorando la plataforma con nuevas funcionalidades qu
 - CCACCACHAHUA ASTOYAURI FELICIANA
 - CANTORAL HUAMAN MARITZA JHOSELIN
 - ASTO HUMANI DAVID
-- MEDINA AZURZA  YADIRA
+- MEDINA AZURZA YADIRA
   
