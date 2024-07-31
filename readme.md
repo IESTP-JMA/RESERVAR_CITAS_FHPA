@@ -1,6 +1,14 @@
+<<<<<<< HEAD
+# RESERVAR CITA
+
+En la actualidad el Hospital "Felipe Huaman Poma de Ayala" Puquio, cuenta con diversos problemas y una de ella es la atencion a los usuarios en la cual para poder atenderse un dia especifico y con un medico especifico, se debe reservar una cita.
+
+PROBLEMA
+=======
 # RESERVAR CITA 
 Nuestra aplicación  de reserva de citas en hospitales es una herramienta digital diseñas para facilitar la gestión de citas médicas tanto para pacientes como para profesionales de la salud. Permite a los usuarios programar, modificar y cancelar citas de manera rápida y sencilla dedes cualquier dispositivo con acceso a internet. 
 ## PROBLEMA
+>>>>>>> 71e0825732c64e8e59fe4981420cec29c476fee0
 
 Los usuario del Hospital "Felipe Huaman Poma de Ayala" Puquio tienen problemas para poder atenderse al dia o la hora en la cual se encuentran enfermos y poderse atender hacer largas colas o ni quiza llegan atenderse.
 
