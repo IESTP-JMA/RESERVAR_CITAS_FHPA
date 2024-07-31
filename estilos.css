@@ -27,11 +27,23 @@ body {
 .specialty {
     margin-bottom: 30px;
 }
+.logo {
+    border-radius: 20%;
+    width: 200px;
+    height: 200px ;
+    margin-bottom: 20px; }
+.imghos {
+        border-radius: 20%;
+        width: 1000px;
+        height: 700px ;
+        margin-bottom: 20px; }
+
 .specialty img {
-    max-width: 100px;
-    border-radius: 60%;
-    margin-bottom: 20px;
+    
+    width: 250px;
+    height: 250px;
 }
+
 .btn-appointment {
     background-color: red;
     color: white;
