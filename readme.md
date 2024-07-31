@@ -35,10 +35,10 @@ Continuar desarrrollando y mejorando la plataforma con nuevas funcionalidades qu
 
 
 # INTEGRANTES
-
-- POMA RAMOS CRISTIAN  DEL MAR
-- CCACCACHAHUA ASTOYAURI FELICIANA
-- CANTORAL HUAMAN MARITZA JHOSELIN
-- ASTO HUMANI DAVID
-- MEDINA AZURZA YADIRA
-  
+|  APELLIDOS   Y    NOMBRES       | USUARIO                            |
+| --------------------------------| -----------------------------------|
+| POMA RAMOS CRISTIAN  DEL MAR    | https://github.com/CRISTIANS02     |
+| CCACCACHAHUA ASTOYAURI FELICIANA| https://github.com/ccaccachahuafeli|
+| CANTORAL HUAMAN MARITZA JHOSELIN| https://github.com/cantoral18      |
+| ASTO HUMANI DAVID               | https://github.com/Davidastoh      |
+| MEDINA AZURZA YADIRA            |https://github.com/Yadirabot11      |

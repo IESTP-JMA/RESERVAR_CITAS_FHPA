@@ -43,29 +43,32 @@ body {
     width: 250px;
     height: 250px;
 }
-
-.btn-appointment {
-    background-color: red;
+.titulo{
+    font-weight: bold;
     color: white;
-    padding: 15px 30px;
 }
 
 .form-control {
-    background: rgba(255, 255, 255, 0.2);
-    border: none;
-    border-radius: 25px;
+    background: rgb(46, 45, 51);
+    border:10px;
+    border-radius: 20px;
     color: white;
     margin-bottom: 15px;
     padding: 15px;
 }
 .btn-custom {
-    background-color: red;
+    background-color: rgb(58, 126, 204);
     color: white;
     padding: 15px 30px;
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
     margin: 10px;
     border-radius: 25px;
 }
 .colortext {
     
     color: black;
+    font-size: medium;
+    font-weight: bold;
 }
